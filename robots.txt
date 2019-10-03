@@ -10,6 +10,3 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
-
-Sitemap: https://mayi.xiaoketang.org/sitemap.xml
-Sitemap: https://mayi.xiaoketang.org/baidusitemap.xml
