@@ -1,0 +1,94 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
+<channel>
+	<generator>DAO Podcast Publish Service 1.0</generator>
+	<lastupdate>Wed, 05 Jan 2022 07:12:07 +0800</lastupdate>
+	<title><![CDATA[演示专辑]]></title>
+	<description><![CDATA[演示专辑及App使用方法]]></description>
+	<itunes:image href = "https://cdn2.jjldbk.com/images/Logo_DAO.png"/>
+	<language>zh-CN</language>
+	<itunes:category text="Comedy"/>
+	<itunes:category text="News">
+	<itunes:category text="Tech News"/></itunes:category>
+	<itunes:category text="Society &amp; Culture">
+	<itunes:category text="Documentary"/></itunes:category>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:author>DAO</itunes:author>
+	<link>https://xiao-shi-pin.web.app</link>
+	<itunes:owner>
+		<itunes:qqgroup>993596291</itunes:qqgroup>
+		<itunes:wechat>divtao</itunes:wechat>
+		<itunes:telegram>https://t.me/wangbolink</itunes:telegram>
+	</itunes:owner>
+	<copyright>DAO</copyright>
+	<item>
+		<title><![CDATA[操作演示]]></title>
+		<description><![CDATA[书签使用]]></description>
+		<enclosure url="https://xiao-shi-pin.web.app/v/bookmark.MP4" length="67503095" type="audio/mpeg"/>
+		<guid>https://dao.fm/?p=5818</guid>
+		<pubDate>Sun, 02 Jan 2022 23:00:00 +0000</pubDate>
+		<itunes:duration>4185</itunes:duration>
+		<link>https://dao.fm/2022/01/03/vol-341-%e7%a7%91%e6%8a%80%e4%b9%b1%e7%82%96%ef%bc%9a%e5%bd%93%e5%bc%80%e6%ba%90%e7%99%bd%e5%ab%96%e9%81%87%e4%b8%8a%e5%8f%b2%e8%af%97%e7%ba%a7%e6%bc%8f%e6%b4%9e/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vol-341-%25e7%25a7%2591%25e6%258a%2580%25e4%25b9%25b1%25e7%2582%2596%25ef%25bc%259a%25e5%25bd%2593%25e5%25bc%2580%25e6%25ba%2590%25e7%2599%25bd%25e5%25ab%2596%25e9%2581%2587%25e4%25b8%258a%25e5%258f%25b2%25e8%25af%2597%25e7%25ba%25a7%25e6%25bc%258f%25e6%25b4%259e</link>
+		<itunes:image href="https://cdn.daopub.com/images/341-banner.jpg"/>
+		<ad>
+			<title>年年有货 心想事成</title>
+			<link>https://u.jd.com/StpsUTv</link>
+		</ad>
+	</item>
+	<item>
+		<title><![CDATA[操作演示]]></title>
+		<description><![CDATA[专辑使用]]></description>
+		<enclosure url="https://xiao-shi-pin.web.app/v/album.MP4" length="67503095" type="audio/mpeg"/>
+		<guid>https://dao.fm/?p=5818</guid>
+		<pubDate>Sun, 02 Jan 2022 23:00:00 +0000</pubDate>
+		<itunes:duration>4185</itunes:duration>
+		<link>https://dao.fm/2022/01/03/vol-341-%e7%a7%91%e6%8a%80%e4%b9%b1%e7%82%96%ef%bc%9a%e5%bd%93%e5%bc%80%e6%ba%90%e7%99%bd%e5%ab%96%e9%81%87%e4%b8%8a%e5%8f%b2%e8%af%97%e7%ba%a7%e6%bc%8f%e6%b4%9e/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vol-341-%25e7%25a7%2591%25e6%258a%2580%25e4%25b9%25b1%25e7%2582%2596%25ef%25bc%259a%25e5%25bd%2593%25e5%25bc%2580%25e6%25ba%2590%25e7%2599%25bd%25e5%25ab%2596%25e9%2581%2587%25e4%25b8%258a%25e5%258f%25b2%25e8%25af%2597%25e7%25ba%25a7%25e6%25bc%258f%25e6%25b4%259e</link>
+		<itunes:image href="https://cdn.daopub.com/images/341-banner.jpg"/>
+		<ad>
+			<title>年年有货 心想事成</title>
+			<link>https://u.jd.com/StpsUTv</link>
+		</ad>
+	</item>
+	<item>
+		<title><![CDATA[操作演示]]></title>
+		<description><![CDATA[社群-发现]]></description>
+		<enclosure url="https://xiao-shi-pin.web.app/v/social.MP4" length="67503095" type="audio/mpeg"/>
+		<guid>https://dao.fm/?p=5818</guid>
+		<pubDate>Sun, 02 Jan 2022 23:00:00 +0000</pubDate>
+		<itunes:duration>4185</itunes:duration>
+		<link>https://dao.fm/2022/01/03/vol-341-%e7%a7%91%e6%8a%80%e4%b9%b1%e7%82%96%ef%bc%9a%e5%bd%93%e5%bc%80%e6%ba%90%e7%99%bd%e5%ab%96%e9%81%87%e4%b8%8a%e5%8f%b2%e8%af%97%e7%ba%a7%e6%bc%8f%e6%b4%9e/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vol-341-%25e7%25a7%2591%25e6%258a%2580%25e4%25b9%25b1%25e7%2582%2596%25ef%25bc%259a%25e5%25bd%2593%25e5%25bc%2580%25e6%25ba%2590%25e7%2599%25bd%25e5%25ab%2596%25e9%2581%2587%25e4%25b8%258a%25e5%258f%25b2%25e8%25af%2597%25e7%25ba%25a7%25e6%25bc%258f%25e6%25b4%259e</link>
+		<itunes:image href="https://cdn.daopub.com/images/341-banner.jpg"/>
+		<ad>
+			<title>年年有货 心想事成</title>
+			<link>https://u.jd.com/StpsUTv</link>
+		</ad>
+	</item>
+	<item>
+		<title><![CDATA[操作演示]]></title>
+		<description><![CDATA[本地文件管理]]></description>
+		<enclosure url="https://video.umeng.com/college/operation/uapp/uapp-%E5%B9%BF%E5%91%8A.mp4" length="67503095" type="audio/mpeg"/>
+		<guid>https://dao.fm/?p=5818</guid>
+		<pubDate>Sun, 02 Jan 2022 23:00:00 +0000</pubDate>
+		<itunes:duration>4185</itunes:duration>
+		<link>https://dao.fm/2022/01/03/vol-341-%e7%a7%91%e6%8a%80%e4%b9%b1%e7%82%96%ef%bc%9a%e5%bd%93%e5%bc%80%e6%ba%90%e7%99%bd%e5%ab%96%e9%81%87%e4%b8%8a%e5%8f%b2%e8%af%97%e7%ba%a7%e6%bc%8f%e6%b4%9e/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vol-341-%25e7%25a7%2591%25e6%258a%2580%25e4%25b9%25b1%25e7%2582%2596%25ef%25bc%259a%25e5%25bd%2593%25e5%25bc%2580%25e6%25ba%2590%25e7%2599%25bd%25e5%25ab%2596%25e9%2581%2587%25e4%25b8%258a%25e5%258f%25b2%25e8%25af%2597%25e7%25ba%25a7%25e6%25bc%258f%25e6%25b4%259e</link>
+		<itunes:image href="https://cdn.daopub.com/images/341-banner.jpg"/>
+		<ad>
+			<title>年年有货 心想事成</title>
+			<link>https://u.jd.com/StpsUTv</link>
+		</ad>
+	</item>
+	<item>
+		<title><![CDATA[操作演示]]></title>
+		<description><![CDATA[链接转换]]></description>
+		<enclosure url="https://xiao-shi-pin.web.app/v/link.MP4" length="67503095" type="audio/mpeg"/>
+		<guid>https://dao.fm/?p=5818</guid>
+		<pubDate>Sun, 02 Jan 2022 23:00:00 +0000</pubDate>
+		<itunes:duration>4185</itunes:duration>
+		<link>https://dao.fm/2022/01/03/vol-341-%e7%a7%91%e6%8a%80%e4%b9%b1%e7%82%96%ef%bc%9a%e5%bd%93%e5%bc%80%e6%ba%90%e7%99%bd%e5%ab%96%e9%81%87%e4%b8%8a%e5%8f%b2%e8%af%97%e7%ba%a7%e6%bc%8f%e6%b4%9e/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vol-341-%25e7%25a7%2591%25e6%258a%2580%25e4%25b9%25b1%25e7%2582%2596%25ef%25bc%259a%25e5%25bd%2593%25e5%25bc%2580%25e6%25ba%2590%25e7%2599%25bd%25e5%25ab%2596%25e9%2581%2587%25e4%25b8%258a%25e5%258f%25b2%25e8%25af%2597%25e7%25ba%25a7%25e6%25bc%258f%25e6%25b4%259e</link>
+		<itunes:image href="https://cdn.daopub.com/images/341-banner.jpg"/>
+		<ad>
+			<title>年年有货 心想事成</title>
+			<link>https://u.jd.com/StpsUTv</link>
+		</ad>
+	</item>
+</channel>
+</rss>
